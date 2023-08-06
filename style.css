@@ -1,0 +1,62 @@
+*{
+    margin: 0px;;
+    background-color: #000000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 
+}
+
+.heading{
+    font-size:100px;
+    color:whitesmoke
+}
+
+    td
+    {
+        color: white;
+        text-align: center;
+        width: 5vw; 
+        border: 2px solid white;
+        font: weight 500px;
+        size: 10px
+    }
+    
+        .none{
+            border: none;
+        }
+        .color1{
+            background-color: rgb(46, 248, 188);
+        }
+        .color2{
+            background-color: rgb(58, 100, 179);
+        }
+        .color3{
+            background-color: rgb(160, 78, 78);
+         }
+         .color4{
+            background-color: crimson;
+         }
+         .color5{
+            background-color: darkgoldenrod;
+         }
+         .color6{
+            background-color: rgb(59, 214, 67);
+         }
+         .color7{
+            background-color: dimgrey;
+         }
+         .color9{
+            background-color: rgb(37, 117, 117);
+         }
+         .color10{
+            background-color: rgba(22, 173, 115, 0.781);
+         }
+         .color11{
+            background-color:rgb(99, 54, 54)
+         }
+         .color12{
+            background-color: yellow;
+         }
+         .center{
+           text-align: center;
+         }
+
+
